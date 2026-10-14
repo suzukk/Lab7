@@ -20,4 +20,4 @@ The application accepts the book with `abc` as its year.
 The application should reject a non-numeric year and display a useful validation message.
 
 ## Evidence
-- Add a screenshot in `screenshots/` if not already captured.
+- Screenshot: `screenshots/bug-04-invalid-year.png`
